@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **wlsdnjs652@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:010xxxx xxxx</h3>
 <p align="left">
 </p>
 
