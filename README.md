@@ -1,7 +1,7 @@
-## Rect <a id="rect">
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
-<h1 align="center">안녕하세요 👋 정보통신학부 2019219019입니다.</h1>
-<h3 align="center">세명대학교 정보통신학부생으로 수강중인 김진원입니다.</h3>
+## Waving <a id="HI">
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+<h1 align="center">안녕하세요 👋 김진원입니다.!</h1>
+
 
 - 📫 How to reach me **wlsdnjs652@gmail.com**
 
