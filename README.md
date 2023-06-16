@@ -1,4 +1,4 @@
-## Waving <a id="HI">
+## <a id="HI">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 <h1 align="center">안녕하세요 👋 김진원입니다.!</h1>
 
